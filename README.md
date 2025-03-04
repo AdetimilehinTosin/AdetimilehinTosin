@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**AdetimilehinTosin/AdetimilehinTosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Tosin - Data Analyst
 
-Here are some ideas to get you started:
+🔍 Passionate about transforming data into actionable insights, uncovering patterns, and driving data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I have experience working with diverse datasets and am proficient in utilizing data analysis tools to provide meaningful, data-driven solutions for businesses and organizations.
+
+## 📍 Skills & Tools
+
+- **Programming Languages**:  SQL
+- **Data Analysis & Visualization**: Excel,  Tableau, Power BI
+- **Databases**: MySQL, PostgreSQL, 
+- **Data Wrangling**: Data cleaning, Transformation, Preprocessing
+- **Version Control**:  GitHub
+
+## 📈 Projects & Experience
+
+### 1. **Sales Performance Analysis**
+   - Conducted in-depth analysis of sales data to identify trends, seasonal patterns, and areas for growth.
+   - Created interactive dashboards using Tableau to visualize performance metrics.
+   - Provided strategic insights that led to a 15% improvement in quarterly sales.
+
+## 🌱 I’m currently learning:
+- Advanced Machine Learning techniques, including Natural Language Processing (NLP) and Deep Learning.
+- Cloud analytics and Big Data tools (e.g., Hadoop, Spark).
+
+## 📬 Get in touch:
+- Email: [adetimilehintosin@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/oluwatosin-adetimilehin-747383243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- GitHub: [https://github.com/AdetimilehinTosin]
+
+
