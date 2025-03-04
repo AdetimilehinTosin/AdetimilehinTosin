@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Tosin - Data Analyst
+# 👋 Hi, I'm Oluwatosin - Data Analyst
 
 🔍 Passionate about transforming data into actionable insights, uncovering patterns, and driving data-driven decisions.
 
@@ -26,7 +26,7 @@
 
 ## 📬 Get in touch:
 - Email: [adetimilehintosin@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/oluwatosin-adetimilehin-747383243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- LinkedIn: [https://www.linkedin.com/in/oluwatosin-adetimilehin]
 - GitHub: [https://github.com/AdetimilehinTosin]
 
 
